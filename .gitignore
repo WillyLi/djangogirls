@@ -89,6 +89,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+djangogirls_venv/
 
 # Spyder project settings
 .spyderproject
